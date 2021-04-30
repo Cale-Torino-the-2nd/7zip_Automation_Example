@@ -1,0 +1,31 @@
+﻿ /*
+ * ReleaseNotes.txt
+ *
+ * TECHRAD
+ *
+ * @author     C.A Torino
+ * @version    V1.0.0.2
+ * @latest      2021/03/18
+ */
+
+#Release Notes
+
+V1.0.0.2    18th March 2021
+-------------------------
+* 7zipVersionForm added.
+* AboutForm added.
+* ReleaseNotesForm added.
+* Path and File Choosing created.
+* 7zipcommands.txt created.
+* App Manifest with dpiAware enabled for windows vista - windows 10.
+
+V1.0.0.1    16th March 2021
+-------------------------
+* Icons added.
+* MainForm created.
+* LoggerClass added.
+
+--------------------------------------------------------------
+END OF FILE
+
+

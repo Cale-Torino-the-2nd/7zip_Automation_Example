@@ -1,1 +1,3 @@
-# 7zip_Automation_Example
+# 7zip Automation Example
+
+A 7zip automation example written in C# (WinForms)
